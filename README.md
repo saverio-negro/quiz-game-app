@@ -1,6 +1,6 @@
 # The Quiz Game App
 
-<img src="/oop-coffee-machine/images/quiz-game-app-image.png" width="40%" height="40%"></img>
+<img src="/quiz-game-app/images/quiz-game-app-image.png" width="40%" height="40%"></img>
 <br>
 Credits: <a href="https://www.freepik.com/free-vector/quiz-game-stage-interior-design-background-competition-with-questions-television-trivia-show-three-stands-with-microphones-spotlight-screens-with-questions_27668986.htm#query=tv%20game%20show&position=1&from_view=keyword&track=ais">freepik.com </a> - by <a href="https://www.freepik.com/author/studio4rt">studio4rt</a>
 <hr>
