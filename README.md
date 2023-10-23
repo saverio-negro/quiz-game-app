@@ -31,6 +31,6 @@ The Quiz Game App is a simple console game where you need to answer a set of gen
 
 You can also run the code to play with it on Replit. <br>
 
-<a href="https://replit.com/@saverionegro/coffee-machine-app?v=1"><img src="/quiz-game-app/images/quiz-game-app-replit.png" width="80%" height="80%"></a>
+<a href="https://replit.com/@saverionegro/quiz-game-app?v=1"><img src="/quiz-game-app/images/quiz-game-app-replit.png" width="80%" height="80%"></a>
 <br>
-<a href="https://replit.com/@saverionegro/coffee-machine-app?v=1">The Quiz Game App Replit</a>
+<a href="https://replit.com/@saverionegro/quiz-game-app?v=1">The Quiz Game App Replit</a>
